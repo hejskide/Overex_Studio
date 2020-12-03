@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "root",
+    "public": "Overex Studio",
     "ignore": [
       "firebase.json",
       "**/.*",
